@@ -1,0 +1,4 @@
+Description:
+A set of perl and shell-scripts to graph the memory usage.
+This scripts need SNMP.
+URL: http://vivi.uptime.at/~oliver/
